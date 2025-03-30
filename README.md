@@ -21,4 +21,4 @@ Foi um projeto feito junto com meu Curso e em relações a dificuldades senti no
 
 
 ## Visualização
-<img src="Vídeo sem título ‐ Feito com o Clipchamp.gif" alt="visualização do projeto">
+<img src="./imagem-projeto/Vídeo sem título ‐ Feito com o Clipchamp.gif" alt="visualizaçao do projeto"/>
