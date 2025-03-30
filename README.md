@@ -5,7 +5,7 @@ Ele exibe para o usuário as cartas de Yu-Gi-Oh!, destacando seus poderes e fina
 De forma simples e fácil, basta clicar nas setas para navegar entre os personagens e visualizar suas informações.
 
 ## Tecnologias 
-HTML5 <img "<a href="https://www.flaticon.com/br/icones-gratis/javascript" title="javascript ícones">Javascript ícones criados por Pixel perfect - Flaticon</a>" width="400">
+HTML5 <img src="https://www.flaticon.com/br/icones-gratis/javascript" title="javascript ícones" alt="icone" width="400"/>
 
 
 
