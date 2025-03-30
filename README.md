@@ -1,8 +1,4 @@
-# Projeto Clone Yu Gi Oh ✨
-
-_________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-## Sobre 
+# Projeto Clone Yu Gi Oh ✨ 
 Ele exibe para o usuário as cartas de Yu-Gi-Oh!, destacando seus poderes e finalidades!
 
 ## Como utilizar ?
@@ -20,4 +16,4 @@ Foi um projeto feito junto com meu Curso e em relações a dificuldades senti no
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Visualização
-(C:\Users\lucia\OneDrive\Desktop\Clone-yu-gi-oh\Clone yu gi oh\images)
+![demonstração do projeto](C:\Users\lucia\OneDrive\Desktop\Clone-yu-gi-oh\Clone yu gi oh\images)
