@@ -16,4 +16,4 @@ Foi um projeto feito junto com meu Curso e em relações a dificuldades senti no
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Visualização
-![demonstração do projeto](C:\Users\lucia\OneDrive\Desktop\Clone-yu-gi-oh\Clone yu gi oh\images)
+![demonstração do projeto](\Users\lucia\OneDrive\Desktop\Clone-yu-gi-oh\Clone yu gi oh\images)
