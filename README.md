@@ -5,7 +5,7 @@ Ele exibe para o usuário as cartas de Yu-Gi-Oh!, destacando seus poderes e fina
 De forma simples e fácil, basta clicar nas setas para navegar entre os personagens e visualizar suas informações.
 
 ## Tecnologias 
-HTML5 <img src="![image](https://github.com/user-attachments/assets/d014ac07-d50b-4f75-8e55-d823f7b98c0f)
+HTML5 <img src="(https://github.com/user-attachments/assets/d014ac07-d50b-4f75-8e55-d823f7b98c0f)
 " width="400">
 
 
