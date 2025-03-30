@@ -12,7 +12,7 @@ De forma simples e fácil, basta clicar nas setas para navegar entre os personag
 </div><br>
 
 ## Dificuldades
-Foi um projeto feito junto com meu Curso e em relações a dificuldades senti no JavaScript porque ainda estou aprendendo sobre essa linguagem do resto achei super tranquilo porque são coisas que já estou praticando.<br>
+Este projeto foi desenvolvido durante o meu curso. Em relação às dificuldades, encontrei mais desafios no JavaScript, pois ainda estou aprimorando meus conhecimentos nessa linguagem. No entanto, as demais partes do projeto foram bem tranquilas, pois já estou praticando e dominando essas tecnologias<br>
 
 ## Visualização
 ![Visualização do projeto](./assets/Vídeo%20sem%20título%20‐%20Feito%20com%20o%20Clipchamp.gif)
