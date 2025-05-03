@@ -16,7 +16,7 @@ Este projeto foi desenvolvido durante o meu curso. Em relação às dificuldades
 - Possui seta ao lado esquerdo e direito, para expandir mais persoangens
 
 ## Projeto online
-Acesse [aqui.]()
+Acesse [aqui.](https://luciane003.github.io/Clone-yu-gi-oh/)
 
 
 ## Tecnologias ultilizadas
